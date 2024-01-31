@@ -14,13 +14,16 @@ form button{
 
 body,
 input,
-textarea{
-    font-family: 'Roboto', sans-serif;;
+textarea,
+h3,
+p{
+    font-family: 'Roboto', sans-serif;
+    
 }
 
 header{
     padding: 16px 0;
-    background-color: #182C61;
+    background-color: #000000;
     color: #ecf0f1;
 }
 
@@ -50,12 +53,13 @@ section .container{
 }
 
 .brands-list img{
-    height: 24px ;
+   width: 150px;
 }
 
 .brands-list li{
-    display: inline;
-    margin-right: 8px;
+    display: flex;
+    margin-right: 16px;
+    
 }
 
 section .container{
@@ -71,7 +75,7 @@ section h2{
 }
 
 section{
-    color: #182C61;
+    color: #000000;
 }
 
 section p{
@@ -81,6 +85,7 @@ section p{
 .store-front{
     margin-right: 24px;
     width: 450px;
+    border-radius: 8px;
 }
 
 .sociallinks img{
@@ -128,14 +133,14 @@ section h3{
 }
 
 form button{
-    background-color: #182C61;
+    background-color: #4c4a4a;
     color: ecf0f1;
     border: none;
     cursor: pointer;
 }
 
 form button:hover{
-    background-color: #2c4fae;
+    background-color: #2e2e2e;
 }
 
 input:focus, 
@@ -146,14 +151,12 @@ footer{
     background-color:#000000 ;
     color: ecf0f1;
     padding: 16px;
+    text-decoration: none;
 }
 
  .brands-list li img{
   border-radius: 15px;
  }
 
-
-
-
-
+ 
 
