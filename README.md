@@ -1,0 +1,1 @@
+Projeto supervisionado, onde consegui aplicar os conhecimentos adquirido durante o módulo para criação de uma pagina de loja de jogos. Utilizado como projeto de conclusão de módulo na EBAC - Escola Britânica de Artes Criativas e Tecnologia.
