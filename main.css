@@ -140,13 +140,17 @@ form button:hover{
 
 input:focus, 
 textarea:focus{
-    outline-color:  #182C61;
+    outline-color:  #000000;
 }
 footer{
-    background-color:#182C61 ;
+    background-color:#000000 ;
     color: ecf0f1;
     padding: 16px;
 }
+
+ .brands-list li img{
+  border-radius: 15px;
+ }
 
 
 
